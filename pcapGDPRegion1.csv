@@ -1,34 +1,34 @@
 CountryName,Year,USD
-OECD members,1990,16579
-OECD members,1991,17211
-OECD members,1992,17841
-OECD members,1993,18326
-OECD members,1994,19143
-OECD members,1995,19917
-OECD members,1996,20795
-OECD members,1997,21761
-OECD members,1998,22345
-OECD members,1999,23217
-OECD members,2000,24649
-OECD members,2001,25412
-OECD members,2002,26212
-OECD members,2003,26971
-OECD members,2004,28401
-OECD members,2005,29746
-OECD members,2006,31705
-OECD members,2007,33244
-OECD members,2008,34098
-OECD members,2009,33214
-OECD members,2010,34462
-OECD members,2011,35885
-OECD members,2012,36860
-OECD members,2013,38161
-OECD members,2014,39298
-OECD members,2015,40416
-OECD members,2016,41766
-OECD members,2017,43458
-OECD members,2018,45874
-OECD members,2019,47209
+OECD Average,1990,16579
+OECD Average,1991,17211
+OECD Average,1992,17841
+OECD Average,1993,18326
+OECD Average,1994,19143
+OECD Average,1995,19917
+OECD Average,1996,20795
+OECD Average,1997,21761
+OECD Average,1998,22345
+OECD Average,1999,23217
+OECD Average,2000,24649
+OECD Average,2001,25412
+OECD Average,2002,26212
+OECD Average,2003,26971
+OECD Average,2004,28401
+OECD Average,2005,29746
+OECD Average,2006,31705
+OECD Average,2007,33244
+OECD Average,2008,34098
+OECD Average,2009,33214
+OECD Average,2010,34462
+OECD Average,2011,35885
+OECD Average,2012,36860
+OECD Average,2013,38161
+OECD Average,2014,39298
+OECD Average,2015,40416
+OECD Average,2016,41766
+OECD Average,2017,43458
+OECD Average,2018,45874
+OECD Average,2019,47209
 European Union,1990,14792
 European Union,1991,15462
 European Union,1992,15927
@@ -89,33 +89,33 @@ Euro area,2016,43545
 Euro area,2017,45745
 Euro area,2018,49052
 Euro area,2019,50675
-Central Europe and the Baltics,1990,7097
-Central Europe and the Baltics,1991,6653
-Central Europe and the Baltics,1992,6685
-Central Europe and the Baltics,1993,6956
-Central Europe and the Baltics,1994,7394
-Central Europe and the Baltics,1995,7975
-Central Europe and the Baltics,1996,8379
-Central Europe and the Baltics,1997,8700
-Central Europe and the Baltics,1998,9094
-Central Europe and the Baltics,1999,9393
-Central Europe and the Baltics,2000,10016
-Central Europe and the Baltics,2001,10799
-Central Europe and the Baltics,2002,11625
-Central Europe and the Baltics,2003,12322
-Central Europe and the Baltics,2004,13463
-Central Europe and the Baltics,2005,14302
-Central Europe and the Baltics,2006,15890
-Central Europe and the Baltics,2007,17727
-Central Europe and the Baltics,2008,19661
-Central Europe and the Baltics,2009,19701
-Central Europe and the Baltics,2010,20802
-Central Europe and the Baltics,2011,22181
-Central Europe and the Baltics,2012,22963
-Central Europe and the Baltics,2013,23954
-Central Europe and the Baltics,2014,24970
-Central Europe and the Baltics,2015,26122
-Central Europe and the Baltics,2016,27858
-Central Europe and the Baltics,2017,29975
-Central Europe and the Baltics,2018,32915
-Central Europe and the Baltics,2019,35131
+CEB Average,1990,7097
+CEB Average,1991,6653
+CEB Average,1992,6685
+CEB Average,1993,6956
+CEB Average,1994,7394
+CEB Average,1995,7975
+CEB Average,1996,8379
+CEB Average,1997,8700
+CEB Average,1998,9094
+CEB Average,1999,9393
+CEB Average,2000,10016
+CEB Average,2001,10799
+CEB Average,2002,11625
+CEB Average,2003,12322
+CEB Average,2004,13463
+CEB Average,2005,14302
+CEB Average,2006,15890
+CEB Average,2007,17727
+CEB Average,2008,19661
+CEB Average,2009,19701
+CEB Average,2010,20802
+CEB Average,2011,22181
+CEB Average2012,22963
+CEB Averages,2013,23954
+CEB Average,2014,24970
+CEB Average,2015,26122
+CEB Average,2016,27858
+CEB Average,2017,29975
+CEB Average,2018,32915
+CEB Average,2019,35131
